@@ -19,3 +19,4 @@ echo $pieces[2]; // piece3
 //list($user, $pass, $uid, $gid, $gecos, $home, $shell) = explode(":", $data);
 //echo $user; // foo
 //echo $pass; // *
+
